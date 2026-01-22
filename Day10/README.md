@@ -7,7 +7,7 @@ Today was a big step forward. I didn’t just write code — I also set up my Gi
   Wrote a function `iqama_fee_cal(years)` that takes user input and calculates the renewal fee.
 
 - **Zakat & VAT Compliance Advisor**  
-  Created a function `calculate_vat(price)` to handle VAT for a single item price entered by the user.
+  Created a function `vat_cal(price)` to handle VAT for a single item price entered by the user.
 
 - **Riyadh Smart Housing Finder**  
   Added a function `annual_rent(monthly_rent)` to calculate yearly rent from monthly input.
