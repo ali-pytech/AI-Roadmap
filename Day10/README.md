@@ -1,6 +1,6 @@
 # Day 10 — Functions, GitHub Setup, and String Practice
 
-Today was a big step forward. I didn’t just write code — I also set up my GitHub repository to start documenting this 60‑day journey publicly.
+Today was a big step forward. I didn’t just write code — I also set up my GitHub repository to start documenting this AI journey publicly.
 
 ## What I Built
 - **Iqama Renewal Assistant**  
@@ -16,10 +16,7 @@ Today was a big step forward. I didn’t just write code — I also set up my Gi
   Tried out string slicing with a function `reverse_string(text)` that flips any user‑entered string.  
   Example: typing `Ali` returns `ilA`.
 
-## GitHub Milestone
-- Created my first public repo: **Ali-60Day-AI-Roadmap**  
-- Added a `Day10` folder with code and reflections  
-- Made my first commit and pushed it successfully  
+
 
 ## Reflection
 Day 9 was about learning functions. Day 10 feels different because now my work is **visible**.  
