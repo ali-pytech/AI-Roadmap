@@ -4,7 +4,7 @@ Today was a big step forward. I didn’t just write code — I also set up my Gi
 
 ## What I Built
 - **Iqama Renewal Assistant**  
-  Wrote a function `iqama_fee(years)` that takes user input and calculates the renewal fee.
+  Wrote a function `iqama_fee_cal(years)` that takes user input and calculates the renewal fee.
 
 - **Zakat & VAT Compliance Advisor**  
   Created a function `calculate_vat(price)` to handle VAT for a single item price entered by the user.
