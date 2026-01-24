@@ -21,12 +21,12 @@ Takes monthly rent and converts it into annual rent. Another small but useful pr
 
 ##  Extra Challenges I Tried
 
-### 🔹 Multiplication of Digits (`mul_of_digits.py`)
+###  Multiplication of Digits (`mul_of_digits.py`)
 I wanted to go beyond the roadmap, so I wrote a function that multiplies all the digits of a number.  
 Example: `123 → 1 * 2 * 3 = 6`.  
 It was fun to figure out how to turn a number into a string and loop through each digit. It reminded me that even small problems can teach big lessons.
 
-### 🔹 Reverse String (`reverse_string.py`)
+###  Reverse String (`reverse_string.py`)
 Another challenge I added: reversing any string using Python slicing (`[::-1]`).  
 Example: `"Ali" → "ilA"`.  
 It’s simple, but I enjoyed it because it shows how powerful and elegant Python can be. Sometimes the shortest solutions are the most satisfying.
