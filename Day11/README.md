@@ -15,7 +15,7 @@ Instead of just one item, this program takes a list of prices, applies 15% VAT t
 ###  Housing Rent List
 This one takes monthly rents for different apartments, converts each into annual rent, and prints the results. It’s simple, but it shows how lists can handle multiple records at once, just like a real housing comparison.
 
----
+
 
 ##  Extra Challenges I Tried
 
@@ -25,11 +25,11 @@ I wrote a function that calculates the average of a list of numbers. It was a go
 ###  Maximum Number Finder
 Another challenge: finding the largest number in a list. Python’s built‑in `max()` made it easy, but I liked how clean and powerful the solution looked.
 
----
+
 
 ##  Reflections
-- Lists make programs feel more realistic — they can handle multiple values instead of just one.  
-- I practiced splitting user input into lists and looping through them.  
-- Error handling is still important; one wrong input can break everything.  
-- Adding two challenges every day makes me feel like I’m exploring beyond the roadmap, not just following instructions.  
+ Lists make programs feel more realistic — they can handle multiple values instead of just one.  
+ I practiced splitting user input into lists and looping through them.  
+ Error handling is still important; one wrong input can break everything.  
+Adding two challenges every day makes me feel like I’m exploring beyond the roadmap, not just following instructions.  
 
