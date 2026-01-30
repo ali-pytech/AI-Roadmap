@@ -1,7 +1,7 @@
 def annual_rent(monthly_rent):
     return monthly_rent * 12
 
-if __name__ == "__main__":
+if __name__ == "__main__": 
     try:
         monthly_rent = int(input("Enter your monthly rent: "))
         total_rent = annual_rent(monthly_rent)
