@@ -3,7 +3,7 @@ def annual_rent(monthly_rent):
 
 if __name__ == "__main__": 
     try:
-        monthly_rent = int(input("Enter your monthly rent: "))
+        monthly_rent = int(input("Enter your monthly rent: ")) 
         total_rent = annual_rent(monthly_rent)
         print(f"Your Monthly Rent is {monthly_rent} SAR so Annual Rent will be {total_rent} SAR")
     except ValueError:
