@@ -28,8 +28,8 @@ Another challenge: finding the largest number in a list. Python’s built‑in `
 
 
 ##  Reflections
- -Lists make programs feel more realistic — they can handle multiple values instead of just one.  
- -I practiced splitting user input into lists and looping through them.  
- -Error handling is still important; one wrong input can break everything.  
--Adding two challenges every day makes me feel like I’m exploring beyond the roadmap, not just following instructions.  
+ - Lists make programs feel more realistic — they can handle multiple values instead of just one.  
+ - I practiced splitting user input into lists and looping through them.  
+ - Error handling is still important; one wrong input can break everything.  
+- Adding two challenges every day makes me feel like I’m exploring beyond the roadmap, not just following instructions.  
 
