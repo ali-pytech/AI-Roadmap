@@ -7,4 +7,4 @@ iqama = {
 }
 
 for person,details in iqama.items():
-    print(f"{person} - Renewal Year: {details["year"]} and Fee is {details["fee"]} SAR")
+    print(f"{person} - Renewal Year: {details["year"]} and Fee is {details["fee"]} SAR") 
