@@ -31,6 +31,6 @@ I created a shopping cart where each product has **price, quantity, and discount
 - I practiced accessing multiple attributes, updating values, and looping through complex records.  
 - Adding attributes like **status, location, and discount** made my projects look professional.  
 - These systems now resemble **government records, invoices, housing listings, and shopping carts**.  
-- I feel like I’m building the foundation of **real-world applications** recruiters will recognize.
+- I feel like I’m building the foundation of **real-world applications**..
 
 
