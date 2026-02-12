@@ -1,4 +1,4 @@
-# Day 10 — Functions, GitHub Setup, and Extra Challenges
+#Day 10 — Functions, GitHub Setup, and Extra Challenges
 
 Day 10 felt special. For the first time, I can actually see my code living inside GitHub — not just random files on my laptop, but a proper repo that tells my story. It feels like I’m building something real, step by step.  
 
