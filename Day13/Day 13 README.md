@@ -2,7 +2,6 @@
 
 Today I leveled up my Python skills by working with **nested dictionaries**. Unlike simple dictionaries, nested ones allow me to store multiple attributes for each record. This feels like building mini databases, where every entry has structured details. My projects now look closer to real systems used in government, business, and housing.
 
-
 ## Projects I Built
 
 ###  Iqama Renewal System
