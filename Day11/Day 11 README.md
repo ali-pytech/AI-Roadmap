@@ -3,7 +3,6 @@
 Today felt like a real step forward. Up until now, most of my programs only worked with one value at a time. But life isn’t like that — we deal with many things at once. So learning how to use **lists** made my code feel more alive. Suddenly, I can collect multiple inputs, store them, and process them together. It’s like my programs grew up a little today.
 
 
-
 ##  Projects I Built
 
 ###  Iqama Renewal List
