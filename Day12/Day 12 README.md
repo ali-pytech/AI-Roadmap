@@ -3,7 +3,6 @@
 Today I stepped into a new level of Python: **dictionaries**. Unlike lists, which just store values, dictionaries let me connect names to values, making my projects feel more like real applications. I also explored **nested dictionaries**, which allow me to store multiple details for each record. This felt like building mini databases.
 
 
-
 ##  Projects I Built
 
 ###  Iqama Renewal Dictionary
