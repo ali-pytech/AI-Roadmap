@@ -4,7 +4,6 @@ Day 10 felt special. For the first time, I can actually see my code living insid
 
 Today I worked with functions, practiced error handling, and added some fun challenges to push myself further. Writing code by hand in VS Code and then committing it here makes me feel like I’m slowly becoming the engineer I want to be.
 
----
 
 ##  Projects I Built
 
