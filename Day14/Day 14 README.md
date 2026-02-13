@@ -2,7 +2,6 @@
 
 Today I learned how to **manipulate dictionaries** using built-in methods. This was a big step forward because now my systems aren’t just storing data — they can update, delete, check, and reset records dynamically. It feels like I’m managing real databases, not just static examples.
 
-
 ## Projects I Built
 
 ###  Iqama Renewal Update
