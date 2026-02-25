@@ -1,6 +1,15 @@
-"""Housing Annual Rent"""
-def Annual_rent(monthly_rent):
-    return monthly_rent * 12
+"""Students Grade Function"""
 
-print(f"Apartment A Annual Rent = {Annual_rent(1500)} SAR")
-print(f"Apartment B Annual Rent = {Annual_rent(2000)} SAR")
+def grade_status(score):
+    if score>=90:
+        return "Excellent"
+    
+    elif score >=70:
+        return "Good"
+    
+    else:
+        return "Need Improvements"
+    
+print(f"Ali : {grade_status(90)}")
+print(f"Ahmed : {grade_status(78)}")
+print(f"Faisal : {grade_status(66)}")
