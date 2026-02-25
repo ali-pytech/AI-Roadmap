@@ -1,0 +1,6 @@
+"""shopping   Cart Function"""
+def item_total(price, quantity):
+    return price * quantity
+
+print(f"Shoes : {item_total(150,3)} SAR")
+print(f"T-Shirt : {item_total(70,2)} SAR")
