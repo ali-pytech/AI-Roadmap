@@ -1,0 +1,4 @@
+Loaded Data from File:
+{'type': 'Iqama', 'holder': 'Ali', 'year': 2026, 'fee': 800}
+{'type': 'Invoice', 'item': 'Laptop', 'total': 6900.0}
+{'type': 'Housing', 'apartment': 'Apartment A', 'annual_rent': 30000}
