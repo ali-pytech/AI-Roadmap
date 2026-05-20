@@ -19,7 +19,6 @@ Today I combined **all four OOP pillars** into one professional system:
 
 ##  Reflections
 - This project shows **layered mastery**: multiple OOP pillars working together.  
-- Recruiters will see that I can **architect scalable applications**, not just write isolated examples.  
 - The Smart Service Portal is a **Saudi-context project** demonstrating practical relevance.  
 
 
