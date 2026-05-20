@@ -1,0 +1,3 @@
+Iqama Processed: ['Ali', 2026, 750]
+Invoice Processed: ['T-shirt', 100, 3, 0.15, 345.0]
+Housing Processed: ['Apartment-A', 3200, 38400]
