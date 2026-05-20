@@ -24,7 +24,6 @@ Loaded Data from File:
 
 ## Reflections
 - I can now design **persistent systems** that store data beyond runtime.  
-- Recruiters will see I can combine **OOP design with file handling** for real-world applications.  
 - This project is a **Saudi-context showcase**: storing Iqama, VAT, and Housing records in files for practical use.  
 
 
