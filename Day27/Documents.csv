@@ -1,4 +1,4 @@
 Type,Holder,Year,Fee,Item,Price,Quantity,Total With VAT,Apartment,Monthly Rent,Annual Rent
 Iqama,Ahmed,2026,750,,,,,,,
-Invoice,,,,Laptop,1700,3,5865,,,
-Housing Record,,,,,,,,,2300,27600
+Invoice,,,,Laptop,1700,3,5865.0,,,
+Housing Record,,,,,,,,Apartment-A,2300,27600
