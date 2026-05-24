@@ -1,0 +1,21 @@
+[
+    {
+        "Type": "Iqama",
+        "Holder": "Ahmed",
+        "Year": 2026,
+        "Fee": 750
+    },
+    {
+        "Type": "Invoice",
+        "Item": "Laptop",
+        "Price": 1700,
+        "Quantity": 3,
+        "Total With VAT": 5865.0
+    },
+    {
+        "Type": "Housing Record",
+        "Apartment": "Apartment-A",
+        "Monthly Rent": 2300,
+        "Annual Rent": 27600
+    }
+]
